@@ -14,9 +14,7 @@ body{
    border-radius: 5px;
    padding: 20px;
    background-color:#AAD9BB;
-   display: flex;
-    justify-content: center;
-    height: 100vh;
+   
 }
 
 form{
